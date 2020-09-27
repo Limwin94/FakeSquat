@@ -5,6 +5,8 @@
 ### 참여자
 - [Limwin94](https://github.com/Limwin94)
 - [GangWoon](https://github.com/GangWoon)
+- [Poogle](https://github.com/suhyunsim)
+- [Ever](https://github.com/hsik0225)
 
 ### 그라운드 룰 (우리의 결의)
 1. 운동은 주 6일, 운동 종류 및 세부 계획은 개인이 구성하도록 한다.
